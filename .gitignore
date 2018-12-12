@@ -1,0 +1,18 @@
+*.doc
+*.docx
+*.db
+*.pyc
+*.sqlite3
+*.csv
+*.xlsx
+*.xls
+
+.DS_Store
+
+*checkpoint.ipynb
+
+*~
+env
+
+# Accept these files in the repository
+!.gitignore
